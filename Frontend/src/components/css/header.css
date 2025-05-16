@@ -1,0 +1,14 @@
+/* Contenedor principal del header */
+.header-container {
+    background-color: #282c34;
+    padding: 20px;
+    text-align: center;
+  }
+  
+  /* Estilo para el título */
+  .header-title {
+    color: white;
+    font-size: 2rem;
+    margin: 0;
+  }
+  

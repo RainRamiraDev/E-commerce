@@ -1,0 +1,23 @@
+/* Contenedor general del hero */
+.hero-section {
+    background: linear-gradient(135deg, #667eea, #764ba2);
+    color: white;
+    padding: 60px 20px;
+    text-align: center;
+  }
+  
+  /* Contenido del hero */
+  .hero-content {
+    max-width: 800px;
+    margin: 0 auto;
+  }
+  
+  .hero-content h1 {
+    font-size: 2.5rem;
+    margin-bottom: 10px;
+  }
+  
+  .hero-content p {
+    font-size: 1.2rem;
+  }
+  

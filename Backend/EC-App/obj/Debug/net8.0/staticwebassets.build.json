@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "sUJ8f4xkkjD1ueRfZ8D+h1TG1H9zvJ5ywzjuFg1jh/E=",
+  "Source": "EC-App",
+  "BasePath": "_content/EC-App",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
