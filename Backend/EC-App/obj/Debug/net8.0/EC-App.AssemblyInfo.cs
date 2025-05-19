@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("EC-App")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+89457b52d9ca96d00a7170a9c7a87295834eb7ea")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+5940ff64c59acace7ea14a11a8fa84c328abf6dd")]
 [assembly: System.Reflection.AssemblyProductAttribute("EC-App")]
 [assembly: System.Reflection.AssemblyTitleAttribute("EC-App")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
